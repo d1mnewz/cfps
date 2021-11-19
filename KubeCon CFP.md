@@ -1,6 +1,6 @@
 # KubeCon Europe 2022 CFP
 
-Link:
+**Link:**
 
 https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/
 
