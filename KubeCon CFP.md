@@ -12,7 +12,7 @@ Could/Should you scale from being a 1x Developer to being a whole IT department?
 
 Do you recall network architects, storage engineers, operations teams? Do you remember these good old pre-Kube times where people weren't forced to be full-full-stack and instantly know every bit of infrastructure management in the name of DevOps? What happened to all of that complexity in the Kube-oriented world? 
 
-In this session, we will roast and challenge these questions, discussing why such job descriptions exist, how they might become dangerous for everybody, and when they make sense. Can someone be a Kube full-full stack without overflow? 
+In this session, we will roast and challenge these questions, discussing why such job descriptions exist, how they might become dangerous for everybody, and when they make sense. Can someone be a Kube full-full stack without overflowing? 
 
 I will take you on a journey through the list of methodologies and tools which enable you to become that 10x engineer who creates solutions, not just sits in front of the computer. We will land onto DevOps culture, product mindset, T-shaped engineers, and the tools that might enable you to become a better developer the first day you come back to tinkering with software after the conference! 
 
